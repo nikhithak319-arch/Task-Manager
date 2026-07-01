@@ -1,0 +1,28 @@
+    body {
+      background: #121212;
+      color: #fff;
+      font-family: sans-serif;
+      display: grid;
+      place-content: center;
+      min-height: 100vh;
+    }
+    .container {
+      background: #1e1e1e;
+      padding: 24px;
+      border-radius: 8px;
+      text-align: center;
+    }
+    input, select, button {
+      padding: 10px;
+      margin: 4px;
+      border-radius: 4px;
+      border: 1px solid #444;
+      background: #2a2a2a;
+      color: #fff;
+    }
+    button {
+      background: #4f46e5;
+      border: none;
+      cursor: pointer;
+    }
+  
